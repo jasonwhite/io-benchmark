@@ -1,0 +1,11 @@
+{
+	"name": "io-benchmark",
+	"description": "IO streams benchmarks",
+	"copyright": "Copyright © 2015, Jason White",
+	"authors": ["Jason White"],
+	"dependencies": {
+        "io" : {
+            "path": "source/io"
+        }
+	}
+}
